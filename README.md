@@ -1,4 +1,4 @@
-# GRC-PoliticaFinanças
+# GRC-Politica-Finanças
 Alguns exemplos de politicas na área de segurança cibernética para empresas na área de finanças 
 
 # Políticas para  Empresas de Finanças: Segurança Cibernética
