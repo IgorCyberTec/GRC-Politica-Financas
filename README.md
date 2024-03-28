@@ -1,12 +1,12 @@
-# GRC-PoliticaFinanas
+# GRC-PoliticaFinanças
 Alguns exemplos de politicas na área de segurança cibernética para empresas na área de finanças 
 
 # GRC-PoliticaHospitalar
 Alguns exemplos de politicas na área de segurança cibernética para hospitais 
 
-# Políticas Hospitalares: Segurança Cibernética
+# Políticas para  Empresas de Finanças: Segurança Cibernética
 
-Este repositório contém políticas relacionadas à segurança cibernética no contexto hospitalar. O documento em PDF inclui diretrizes e procedimentos para proteger as informações sensíveis dos pacientes e garantir a confiabilidade dos sistemas digitais.
+Este repositório contém políticas relacionadas à segurança cibernética para Empresas de Finanças. O documento em PDF inclui diretrizes e procedimentos para proteger as informações sensíveis dos pacientes e garantir a confiabilidade dos sistemas digitais.
 
 ## Conteúdo
 
